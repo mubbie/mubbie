@@ -10,16 +10,16 @@ I'm a software engineer based in **Seattle, WA** 🌲 who's obsessed with buildi
 
 ### 🚀 What I'm Building
 
-| Project | What It Does | Lang |
-|---------|-------------|------|
-| 🔧 [**gx-cli**](https://github.com/mubbie/gx-cli) | Git productivity toolkit that supercharges your workflow | Python |
-| 📄 [**officecat**](https://github.com/mubbie/officecat) | View Office files right in your terminal | Python |
-| 🔌 [**portctl**](https://github.com/mubbie/portctl) | Inspect & kill processes on TCP ports like a boss | Python |
-| 🗑️ [**garbagec**](https://github.com/mubbie/garbagec) | A fun garbage collector library for C | C |
-| 📚 [**stacksmith**](https://github.com/mubbie/stacksmith) | Ultralight artisan git stacking tool | Go |
-| 🔍 [**pattern-seek**](https://github.com/mubbie/pattern-seek) | Just search. That's it. | Python |
-| 🏹 [**arrowscript**](https://github.com/mubbie/arrowscript) | A programming language experiment | Go |
-| 🏓 [**chaos-pong**](https://github.com/mubbie/chaos-pong) | Pong, but make it chaos and play with friends | TypeScript |
+| Project | What It Does | Lang | Status |
+|---------|-------------|------|--------|
+| 🔧 [**gx-cli**](https://github.com/mubbie/gx-cli) | Git productivity toolkit that supercharges your workflow | Python | ✅ Active |
+| 📄 [**officecat**](https://github.com/mubbie/officecat) | View Office files right in your terminal | Python | ✅ Active |
+| 🔌 [**portctl**](https://github.com/mubbie/portctl) | Inspect & kill processes on TCP ports like a boss | Python | ✅ Active |
+| 🗑️ [**garbagec**](https://github.com/mubbie/garbagec) | A fun garbage collector library for C | C | 💡 Idea |
+| 📚 [**stacksmith**](https://github.com/mubbie/stacksmith) | Ultralight artisan git stacking tool | Go | ✅ Active |
+| 🔍 [**pattern-seek**](https://github.com/mubbie/pattern-seek) | Just search. That's it. | Python | 🚧 WIP |
+| 🏹 [**arrowscript**](https://github.com/mubbie/arrowscript) | A programming language experiment | Go | 💡 Idea |
+| 🏓 [**chaos-pong**](https://github.com/mubbie/chaos-pong) | Pong, but make it chaos and play with friends | TypeScript | ✅ Active |
 
 ---
 
