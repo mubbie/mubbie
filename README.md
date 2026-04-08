@@ -39,7 +39,7 @@ I write about **tech, security, sports, life**, and whatever else catches my att
 - 🏎️ Huge fan of **motorsport**, electric cars, and autonomous vehicles
 - 🌱 Building [**Lena**](https://lena.africa/): an LMS/SMS empowering teachers across Africa to bridge educational gaps, making quality learning accessible even in low-connectivity regions 🌍
 - 🤖 Recently started dabbling with **AI agents**: building, experimenting, and exploring the frontier
-- 🏃🏾‍♂️ Something of an athlete: I **run**, **cycle**, **lift**, and play **soccer**, **flag football**, **frisbee** & **basketball**, etc.
+- 🏃🏾‍♂️ Something of an athlete: I **run**, **cycle**, **lift**, and play **soccer**, **flag football**, **ultimate frisbee** (super beginner), **basketball**, etc.
 - 🎮 Gamer at heart: 3rd-person shooter adventures are my jam (think Uncharted, TLOU, God of War, RDR vibes)
 - 📖 Enjoy **reading**
 - 🧠 Always learning. Currently geeking out on agentic AI and distributed systems
