@@ -19,7 +19,7 @@ I'm a software engineer based in **Seattle, WA** 🌲 who's obsessed with buildi
 | 📚 [**stacksmith**](https://github.com/mubbie/stacksmith) | Ultralight artisan git stacking tool | Go |
 | 🔍 [**pattern-seek**](https://github.com/mubbie/pattern-seek) | Just search. That's it. | Python |
 | 🏹 [**arrowscript**](https://github.com/mubbie/arrowscript) | A programming language experiment | Go |
-| 🏓 [**chaos-pong**](https://github.com/mubbie/chaos-pong) | Pong, but make it chaos | TypeScript |
+| 🏓 [**chaos-pong**](https://github.com/mubbie/chaos-pong) | Pong, but make it chaos and play with friends | TypeScript |
 
 ---
 
