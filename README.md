@@ -51,8 +51,11 @@ I write about **tech, security, sports, life**, and whatever else catches my att
 - 🔐 Passionate about **cybersecurity** — from password salting to systems hardening
 - 🏎️ Huge fan of **motorsport**, electric cars, and autonomous vehicles
 - ⚽ I write about **soccer tactics** and **American football** for fun
-- 🌱 Building [**Lena**](https://lena.africa/) — a project close to my heart
+- 🌱 Building [**Lena**](https://lena.africa/) — an LMS empowering teachers across Africa to bridge educational gaps, making quality learning accessible even in low-connectivity regions 🌍
 - 🤖 Recently started dabbling with **AI agents** — building, experimenting, and exploring the frontier
+- 🏃🏾‍♂️ Something of an athlete — I **run**, **lift**, and play **soccer**, **frisbee** & **basketball**
+- 🎮 Gamer at heart — 3rd-person shooter adventures are my jam (think Uncharted, TLOU, God of War vibes)
+- 📖 Avid **reader** — always got a book going
 - 🧠 Always learning. Currently geeking out on systems internals, security research & agentic AI
 
 ---
@@ -61,6 +64,7 @@ I write about **tech, security, sports, life**, and whatever else catches my att
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubarak-idoko)
 [![X (Twitter)](https://img.shields.io/badge/-@imubbiee-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/imubbiee)
+[![Threads](https://img.shields.io/badge/-@mubbiee-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@mubbiee)
 [![Substack](https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://mubbiesnotebook.substack.com/)
 [![Blog](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=github&logoColor=white)](https://mubbie.github.io/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:midoko.dev@gmail.com)
