@@ -1,8 +1,8 @@
-# Hey there, I'm Mubarak! 👋🏾
+# Hey there, I'm Mubbie! 👋🏾
 
-### aka **mubbie** — Security Engineer @ Microsoft 🛡️ | Builder of Cool Things 🔧 | Writer ✍🏾
+### Security Engineer @ Microsoft 🛡️ | Builder of Cool Things 🔧 | Writer ✍🏾
 
-I'm a software engineer based in **Seattle, WA** 🌲 who's obsessed with building elegant tools, breaking (and securing) systems, and writing about things that make me curious. My goal? Become a world-class **security engineer**, **seasoned entrepreneur**, and **business leader** — one commit at a time.
+I'm a software engineer based in **Seattle, WA** 🌲 who's obsessed with building elegant tools, breaking (and securing) systems, and writing about things that make me curious. My goal is to a world-class **security engineer**, **seasoned entrepreneur**, and **business leader**, one commit at a time.
 
 > *"Become better every day. Solve interesting problems. Take on the world with a big smile."* 😄
 
@@ -27,36 +27,22 @@ I'm a software engineer based in **Seattle, WA** 🌲 who's obsessed with buildi
 
 I write about **tech, security, sports, life**, and whatever else catches my attention. Some recent favorites:
 
-📝 [Garbage Collection (More Like Recycling)](https://mubbie.github.io/) · [Add Salt to the Password for Taste](https://mubbie.github.io/) · [Recursion: In Computer Science](https://mubbie.github.io/) · [Traffic Jams & Phantom Waves](https://mubbie.github.io/)
+📝 [Garbage Collection (More Like Recycling)](https://open.substack.com/pub/mubbiesnotebook/p/garbage-collection-more-like-recycling) · [Add Salt to the Password for Taste](https://open.substack.com/pub/mubbiesnotebook/p/add-salt-to-the-password-for-taste) · [Getting Lean Before GTA 6: Notes on diet, exercise, and sustainable healthy habits](https://open.substack.com/pub/mubbiesnotebook/p/getting-lean-before-gta-6?utm_campaign=post-expanded-share&utm_medium=web) · [Traffic Jams & Phantom Waves](https://open.substack.com/pub/mubbiesnotebook/p/traffic-jamshtml)
 
 🔗 **Read more** → [mubbie.github.io](https://mubbie.github.io/) | [Substack](https://mubbiesnotebook.substack.com/)
 
 ---
 
-### 🧰 Tech & Tools I Work With
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
----
-
 ### 🌍 Beyond Code
 
-- 🔐 Passionate about **cybersecurity** — from password salting to systems hardening
+- 🔐 Passionate about **cybersecurity**
 - 🏎️ Huge fan of **motorsport**, electric cars, and autonomous vehicles
-- ⚽ I write about **soccer tactics** and **American football** for fun
-- 🌱 Building [**Lena**](https://lena.africa/) — an LMS empowering teachers across Africa to bridge educational gaps, making quality learning accessible even in low-connectivity regions 🌍
-- 🤖 Recently started dabbling with **AI agents** — building, experimenting, and exploring the frontier
-- 🏃🏾‍♂️ Something of an athlete — I **run**, **lift**, and play **soccer**, **frisbee** & **basketball**
-- 🎮 Gamer at heart — 3rd-person shooter adventures are my jam (think Uncharted, TLOU, God of War vibes)
-- 📖 Avid **reader** — always got a book going
-- 🧠 Always learning. Currently geeking out on systems internals, security research & agentic AI
+- 🌱 Building [**Lena**](https://lena.africa/): an LMS/SMS empowering teachers across Africa to bridge educational gaps, making quality learning accessible even in low-connectivity regions 🌍
+- 🤖 Recently started dabbling with **AI agents**: building, experimenting, and exploring the frontier
+- 🏃🏾‍♂️ Something of an athlete: I **run**, **cycle**, **lift**, and play **soccer**, **flag football**, **frisbee** & **basketball**, etc.
+- 🎮 Gamer at heart: 3rd-person shooter adventures are my jam (think Uncharted, TLOU, God of War, RDR vibes)
+- 📖 Enjoy **reading**
+- 🧠 Always learning. Currently geeking out on agentic AI and distributed systems
 
 ---
 
