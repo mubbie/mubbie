@@ -58,10 +58,6 @@ I write about **tech, security, sports, life**, and whatever else catches my att
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mubbie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mubbie's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubbie&theme=tokyonight&hide_border=true" alt="Mubbie's Streak" />
 </p>
 
