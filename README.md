@@ -52,13 +52,13 @@ I write about **tech, security, sports, life**, and whatever else catches my att
 - [ ] Run a full marathon
 - [ ] Complete at least two half Ironmans
 - [ ] Complete at least one full Ironman
-- [ ] Ride STP (Seattle to Portland) 🚴🏾
-- [ ] Learn to ride motorcycles 🏍️
-- [ ] Learn to fly airplanes ✈️
+- [ ] Ride STP (Seattle to Portland)
+- [ ] Learn to ride motorcycles
+- [ ] Learn to fly airplanes
 - [x] Go skydiving *(done 2!)*
-- [ ] Get a skydiving license 🪂
-- [ ] Amateur motor racing or karting *(starting in the sim first)* 🏎️
-- [ ] Finish GTA 6 *(obviously)* 😏
+- [ ] Get a skydiving license
+- [ ] Amateur motor racing or karting *(starting in the sim first)*
+- [ ] Finish GTA 6 *(obviously : )*
 
 ---
 
