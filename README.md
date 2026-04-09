@@ -1,8 +1,8 @@
 # Hey there, I'm Mubbie! 👋🏾
 
-### Security Engineer @ Microsoft 🛡️ | Builder of Cool Things 🔧 | Writer ✍🏾
+### Engineer @ Microsoft Security 🛡️ | Builder of Cool Things 🔧 | Writer ✍🏾
 
-I'm a software engineer based in **Seattle, WA** 🌲 who's obsessed with building elegant tools, breaking (and securing) systems, and writing about things that make me curious. My goal is to a world-class **security engineer**, **seasoned entrepreneur**, and **business leader**, one commit at a time.
+I'm a software engineer based in **Seattle, WA** 🌲 who's obsessed with building elegant tools, breaking (and securing) systems, and writing about things that make me curious. My goal is to a world-class ** engineer**, **seasoned entrepreneur**, and **business leader**, one commit at a time.
 
 > *"Become better every day. Solve interesting problems. Take on the world with a big smile."* 😄
 
