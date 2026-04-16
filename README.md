@@ -12,11 +12,11 @@ I'm a software engineer based in **Seattle, WA** and I'm currently obsessed with
 
 | Project | What It Does | Lang | Status |
 |---------|-------------|------|--------|
-| 🔧 [**gx-cli**](https://github.com/mubbie/gx-cli) | Git productivity toolkit that supercharges your workflow | Python | ✅ Active |
+| 🔧 [**gx**](https://github.com/mubbie/gx-cli) | Git productivity toolkit that supercharges your workflow | Python/Go | ✅ Active |
 | 📄 [**officecat**](https://github.com/mubbie/officecat) | View Office files right in your terminal | Python | ✅ Active |
 | 🔌 [**portctl**](https://github.com/mubbie/portctl) | Inspect & kill processes on TCP ports like a boss | Python | ✅ Active |
 | 🗑️ [**garbagec**](https://github.com/mubbie/garbagec) | A fun garbage collector library for C | C | 💡 Idea |
-| 📚 [**stacksmith**](https://github.com/mubbie/stacksmith) | Ultralight artisan git stacking tool | Go | ✅ Active |
+| 📚 [**stacksmith**](https://github.com/mubbie/stacksmith) | Ultralight artisan git stacking tool | Go | ⛔ Deprecated |
 | 🔍 [**pattern-seek**](https://github.com/mubbie/pattern-seek) | Just search. That's it. | Python | 🚧 WIP |
 | 🏹 [**arrowscript**](https://github.com/mubbie/arrowscript) | A programming language experiment | Go | 💡 Idea |
 | 🏓 [**chaos-pong**](https://github.com/mubbie/chaos-pong) | Pong, but make it chaos and play with friends | TypeScript | ✅ Active |
@@ -29,7 +29,7 @@ I write about **tech, security, sports, life**, and whatever else catches my att
 
 📝 [Garbage Collection (More Like Recycling)](https://open.substack.com/pub/mubbiesnotebook/p/garbage-collection-more-like-recycling) · [Add Salt to the Password for Taste](https://open.substack.com/pub/mubbiesnotebook/p/add-salt-to-the-password-for-taste) · [Getting Lean Before GTA 6: Notes on diet, exercise, and sustainable healthy habits](https://open.substack.com/pub/mubbiesnotebook/p/getting-lean-before-gta-6?utm_campaign=post-expanded-share&utm_medium=web) · [Traffic Jams & Phantom Waves](https://open.substack.com/pub/mubbiesnotebook/p/traffic-jamshtml)
 
-🔗 **Read more** → [mubbie.github.io](https://mubbie.github.io/) | [Substack](https://mubbiesnotebook.substack.com/)
+🔗 **Read more** → [mubbie.github.io](https://mubbie.github.io/) | [Substack](https://notebook.mubbie.dev/)
 
 ---
 
@@ -67,8 +67,8 @@ I write about **tech, security, sports, life**, and whatever else catches my att
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubarak-idoko)
 [![X (Twitter)](https://img.shields.io/badge/-@imubbiee-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/imubbiee)
 [![Threads](https://img.shields.io/badge/-@mubbiee-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@mubbiee)
-[![Substack](https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://mubbiesnotebook.substack.com/)
-[![Blog](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=github&logoColor=white)](https://mubbie.github.io/)
+[![Substack](https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://notebook.mubbie.dev/)
+[![Website](https://img.shields.io/badge/-mubbie.dev-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://mubbie.dev/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:midoko.dev@gmail.com)
 
 ---
