@@ -46,22 +46,6 @@ I write about **tech, security, sports, life**, and whatever else catches my att
 
 ---
 
-### 🎯 The Bucket List
-
-- [x] Run a half marathon *(done 3!)*
-- [ ] Run a full marathon
-- [ ] Complete at least two half Ironmans
-- [ ] Complete at least one full Ironman
-- [ ] Ride STP (Seattle to Portland)
-- [ ] Learn to ride motorcycles
-- [ ] Learn to fly airplanes
-- [x] Go skydiving *(done 2!)*
-- [ ] Get a skydiving license
-- [ ] Amateur motor racing or karting *(starting in the sim first)*
-- [ ] Finish GTA 6 *(obviously : )*
-
----
-
 ### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubarak-idoko)
