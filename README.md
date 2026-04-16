@@ -69,6 +69,7 @@ I write about **tech, security, sports, life**, and whatever else catches my att
 [![Threads](https://img.shields.io/badge/-@mubbiee-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@mubbiee)
 [![Substack](https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://notebook.mubbie.dev/)
 [![Website](https://img.shields.io/badge/-mubbie.dev-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://mubbie.dev/)
+[![Strava](https://img.shields.io/badge/-Strava-FC4C02?style=flat-square&logo=strava&logoColor=white)](https://strava.app.link/ySjT1gEwn2b)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:midoko.dev@gmail.com)
 
 ---
