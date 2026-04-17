@@ -37,5 +37,5 @@ Software engineer at **Microsoft Security**. I build software, break systems, an
 </p>
 
 <p align="center">
-  ⭐ <i>If you like what I build, drop a star — it fuels the next late-night coding session!</i> ⭐
+  ⭐ <i>If you like what I build, drop a star - it fuels the next late-night coding session!</i> ⭐
 </p>
