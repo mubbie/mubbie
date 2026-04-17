@@ -2,7 +2,7 @@
 
 Software engineer at **Microsoft Security**. I build software, break systems, and write about things that make me curious.
 
-🌐 **[mubbie.dev](https://mubbie.dev)** — my corner of the internet
+🌐 **[mubbie.dev](https://mubbie.dev)** - my corner of the internet
 
 ---
 
