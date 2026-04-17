@@ -1,10 +1,8 @@
 # Hey there, I'm Mubbie! 👋🏾
 
-### Engineer @ Microsoft Security 🛡️ | Builder of Cool Things 🔧 | Writer ✍🏾
+Software engineer at **Microsoft Security**. I build software, break systems, and write about things that make me curious.
 
-I'm a software engineer based in **Seattle, WA** and I'm currently obsessed with building elegant tools, breaking (and securing) systems, and writing about things that make me curious. My goal is to a world-class **engineer**, **seasoned entrepreneur**, and **business leader**, one commit at a time.
-
-> *"Become better every day. Solve interesting problems. Take on the world with a big smile."* 😄
+🌐 **[mubbie.dev](https://mubbie.dev)** — my corner of the internet
 
 ---
 
@@ -23,36 +21,12 @@ I'm a software engineer based in **Seattle, WA** and I'm currently obsessed with
 
 ---
 
-### ✍🏾 Mubbie's Notebook
-
-I write about **tech, security, sports, life**, and whatever else catches my attention. Some recent favorites:
-
-📝 [Garbage Collection (More Like Recycling)](https://open.substack.com/pub/mubbiesnotebook/p/garbage-collection-more-like-recycling) · [Add Salt to the Password for Taste](https://open.substack.com/pub/mubbiesnotebook/p/add-salt-to-the-password-for-taste) · [Getting Lean Before GTA 6: Notes on diet, exercise, and sustainable healthy habits](https://open.substack.com/pub/mubbiesnotebook/p/getting-lean-before-gta-6?utm_campaign=post-expanded-share&utm_medium=web) · [Traffic Jams & Phantom Waves](https://open.substack.com/pub/mubbiesnotebook/p/traffic-jamshtml)
-
-🔗 **Read more** → [mubbie.github.io](https://mubbie.github.io/) | [Substack](https://notebook.mubbie.dev/)
-
----
-
-### 🌍 Beyond Code
-
-- 🔐 Passionate about **cybersecurity**
-- 🏎️ Huge fan of **motorsport**, electric cars, and autonomous vehicles
-- 🌱 Building [**Lena**](https://lena.africa/): an LMS/SMS empowering teachers across Africa to bridge educational gaps, making quality learning accessible even in low-connectivity regions 🌍
-- 🤖 Recently started dabbling with **AI agents**: building, experimenting, and exploring the frontier
-- 🏃🏾‍♂️ Something of an athlete: I **run**, **cycle**, **lift**, and play **soccer**, **flag football**, **ultimate frisbee** (super beginner), **basketball**, etc.
-- 🎮 Gamer at heart: 3rd-person shooter adventures are my jam (think Uncharted, TLOU, God of War, RDR vibes)
-- 📖 Enjoy **reading**
-- 🧠 Always learning. Currently geeking out on agentic AI and distributed systems
-
----
-
 ### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubarak-idoko)
 [![X (Twitter)](https://img.shields.io/badge/-@imubbiee-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/imubbiee)
 [![Threads](https://img.shields.io/badge/-@mubbiee-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@mubbiee)
 [![Substack](https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://notebook.mubbie.dev/)
-[![Website](https://img.shields.io/badge/-mubbie.dev-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://mubbie.dev/)
 [![Strava](https://img.shields.io/badge/-Strava-FC4C02?style=flat-square&logo=strava&logoColor=white)](https://strava.app.link/ySjT1gEwn2b)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:midoko.dev@gmail.com)
 
