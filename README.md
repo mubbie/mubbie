@@ -18,6 +18,7 @@ Software engineer at **Microsoft Security**. I build software, break systems, an
 | 🔍 [**pattern-seek**](https://github.com/mubbie/pattern-seek) | Just search. That's it. | Python | 🚧 WIP |
 | 🏹 [**arrowscript**](https://github.com/mubbie/arrowscript) | A programming language experiment | Go | 💡 Idea |
 | 🏓 [**chaos-pong**](https://github.com/mubbie/chaos-pong) | Pong, but make it chaos and play with friends | TypeScript | ✅ Active |
+| 🧙 [**sorcery**](https://github.com/mubbie/sorcery) | A whimsical cocktail apothecary that divines your perfect elixir (aka "what should I drink tonight?") | JavaScript | ✅ Active |
 
 ---
 
